@@ -1,0 +1,4 @@
+
+Account names and passwords for about 200 million Yahoo! accounts were put up for sale on the darkweb by a seller using the moniker "Peace". The data breach was originally thought to have occurred in late 2014, with hackers obtaining data from over 500 million user accounts. The stolen data included accoout name, email addresses, phone numbers, DOBs, hashed passwords, and encrpted or unencrypted security questions and answers. It was later discovered that the breach included data from all 3 billion Yahoo! accounts. No motive was ever given other than the intent to sell user data on the black market. 
+The company believes that the breach had been conducted though an attack using cookies, which allowed hackers to authenticate as any user without their password.
+Once Yahoo! and its security analysts had confirmed this, they invalidated all previous cookies to eliminate this method of attack.
